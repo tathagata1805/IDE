@@ -1,8 +1,5 @@
-# **Welcome to VV's IDE**
+# **IDE**
 
-### Useful Links:-
-[Live Demo](http://oswalgopal.github.io/ide)
-[About Me](http://oswalgopal.github.io)
 
 ### About IDE
 <a href="#feature1">`1. Compile your code and see output.`</a>
